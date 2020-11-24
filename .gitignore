@@ -1,0 +1,11 @@
+*.qpf
+*.qsf
+*.qws
+*.bak
+*.sh
+*.ini
+*.wlf
+/on_board_implementation/db/*
+/on_board_implementation/incremental_db/*
+/on_board_implementation/output_files/*
+/on_board_implementation/simulation/*
