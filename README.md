@@ -17,3 +17,10 @@ Execute stage. The load word hazard support utilized a hazard detection module i
 the execute stage requires a value read from memory. I then modified my project so that it can be easily synthesized
 into hardware. It is important to note that the on board implementation does not include the pipelining and load word
 hazard support.
+
+Implementation and Testing Screenshots
+--------------------------------------
+
+![Simulation](/screenshots/2020-11-24-153936_4480x1440_scrot.png)
+
+![RTL Viewer](/screenshots/2020-11-24-154651_4480x1440_scrot.png)
